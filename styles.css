@@ -1,11 +1,39 @@
 .title1{
-    color: white; 
-    size:30px; 
+    color: rgb(0, 0, 0); 
     font-size: 50px; 
     text-align: center; 
-    background-color: black;
+    font-style: italic;
 }
 
 .fondo{
-    background-color: black;
+    background-color: rgb(208, 212, 170);
 }
+.text1{
+    text-align: center;
+    background-color: rgb(208, 212, 170);
+    font-style: oblique ;
+    color: black
+}
+.text2{
+    background-color: rgb(208, 212, 170);
+    font-size: 20px;
+    text-align: justify;
+    color: black;
+}
+.fotos{
+    width: 500px !important;
+    height: 500px !important;
+    text-align: center;
+}
+.img2{
+    width: 400px !important;
+    height: 400px !important;
+
+    text-align: center;
+}
+.text3{
+    text-align: center;
+    background-color: rgb(208, 212, 170);
+    font-style: oblique ;
+    color: black;
+    font-size: 32px;

@@ -21,13 +21,15 @@
     color: black;
 }
 .fotos{
-    width: 500px !important;
+    width: 350px !important;
     height: 500px !important;
-    text-align: center;
+    text-align: center !important; 
+    
 }
 .img2{
     width: 400px !important;
     height: 400px !important;
+    text-align: center;
 
     text-align: center;
 }
@@ -37,3 +39,12 @@
     font-style: oblique ;
     color: black;
     font-size: 32px;
+}
+
+.armando{
+    width: 100px !important;
+    height: 725px !important;
+}
+.nicolas{
+
+}

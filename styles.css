@@ -45,6 +45,17 @@
     width: 100px !important;
     height: 725px !important;
 }
-.nicolas{
-
+.button1{
+    width: 60px;
+    height: 80px;
+    background: red;
+    border-radius: 10px;
+    border: none;
+    padding: 110px;
+    color: white;
+    font-size: 25px;
+    transition: .3s ease all;
+    cursor: alias;
+    margin: none;
+    box-sizing: border-box;
 }
